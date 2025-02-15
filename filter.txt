@@ -1,0 +1,4 @@
+nexusmods.com#@#+js(remove-cookie, ab)
+nexusmods.com##+js(trusted-set-cookie, ab, 0|$now$)
+nexusmods.com#@#+js(abort-on-property-write, blockingAds)
+@@||www.nexusmods.com/Contents/Scripts/$script,1p
